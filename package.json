@@ -1,0 +1,22 @@
+{
+  "name": "retrojstream",
+  "version": "1.0.0",
+  "description": "A streaming service",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MQ-2000/RetroJStream.git"
+  },
+  "author": "MQ-2000 & Jacobw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MQ-2000/RetroJStream/issues"
+  },
+  "homepage": "https://github.com/MQ-2000/RetroJStream#readme"
+}
